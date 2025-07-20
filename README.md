@@ -43,13 +43,6 @@ Tube Pulse is a scalable YouTube data analysis solution that leverages Amazon We
 
 ---
 
-## 🗓️ Timeline
-
-- 📅 **Project Completed:** November 20, 2023  
-- 🔐 Private until submission, now open for review
-
----
-
 ## 👤 Author
 
 **Sai Varun Narajala**  
